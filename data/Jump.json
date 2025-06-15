@@ -9,7 +9,10 @@
     "Overall"
   ],
   "author": "EnderSky",
-  "creators": [EnderSky, ABCDE],
+  "creators": [
+    "EnderSky",
+    "ABCDE"
+  ],
   "verifier": "EnderSky",
   "verification": "https://youtu.be/Rxb5iRPh_Gw?si=eIJKgcoL_iziW5vD",
   "percentToQualify": 20,
